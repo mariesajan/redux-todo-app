@@ -2,7 +2,7 @@
 
 An example project done as part of learning **react, webpack, babel** and **[redux](http://redux.js.org/)**
 
-This app helps you to get organized with the tasks. You can add/edit the items in the Todo List and can remove the completed items later.
+This app helps you to get organized with the tasks. You can add the items in the Todo List and cark mark as completed once you finish the tasks. You can also filter the tasks here.
 
 ### Installation
 
